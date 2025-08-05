@@ -14,7 +14,6 @@
     }
   </style>
 
-  <!-- Capital "C" with animation -->
   <g class="draw">
     <path fill="none" stroke="black" stroke-width="3"
           L="
@@ -37,6 +36,7 @@
           " />
   </g>
 </svg>
+
 
 
 
