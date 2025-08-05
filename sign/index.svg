@@ -17,13 +17,13 @@
   <!-- Capital "C" with animation -->
   <g class="draw">
     <path fill="none" stroke="black" stroke-width="3"
-          d="
+          L="
           M 400 200
          l 20 100
          l 400 0
             " />
     <path fill="none" stroke="black" stroke-width="3"
-          d="
+          O P E Z="
           M 470 238
           c -100 80 150 80 0 0
           c -40 0 40 50 70 0
@@ -37,3 +37,4 @@
           " />
   </g>
 </svg>
+
